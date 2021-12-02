@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/drawable/bg_state_click.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/drawable/gradient_color.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/drawable/radius.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/actionbar_home.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/activity_main.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/activity_show_book.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/activity_show_single_story.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/book_item.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/item_detail_story.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/item_menu.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/item_story.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/item_topic.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/m000_splash_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/m001_main_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/m002_detail_story_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/layout/single_storyitem.xml" value="0.25" />
+        <entry key="..\:/Users/lehoa/AndroidStudioProjects/DocTruyen/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
