@@ -22,7 +22,7 @@ public class M002DetailStoryFragment extends BaseFragment<MainViewModel>  {
         TextView tv_Topic = findViewById(R.id.tv_topic);
         TextView tv_Index = findViewById(R.id.tv_index);
         tv_Topic.setText(mModel.getTitle());
-        tv_Index.setText(String.valueOf(storyIdx) + "/" + String.valueOf(mModel.getListStory().size()));
+        tv_Index.setText(String.valueOf(storyIdx+1) + "/" + String.valueOf(mModel.getListStory().size()));
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
